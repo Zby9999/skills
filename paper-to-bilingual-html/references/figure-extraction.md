@@ -4,7 +4,7 @@
 
 ## 工具
 
-`scripts/extract_figures.py`(依赖 PyMuPDF,`python3 -c "import fitz"` 可验证;缺失时 `python3 -m pip install --user pymupdf`)。
+`scripts/extract_figures.py`。依赖获取与解释器选择以 [dependencies.md](dependencies.md) 为唯一准则;下列命令中的 `python3` 均可替换为通过预检的解释器。
 
 ```bash
 # 1. 列出检测到的所有 Figure/Table caption(不动刀,先摸底)
