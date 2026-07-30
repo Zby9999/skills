@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper to Bilingual HTML"
+  short_description: "Complete paragraph-aligned bilingual paper HTML"
+  default_prompt: "Use $paper-to-bilingual-html to produce a complete, model-translated bilingual HTML edition of this paper."
+
+policy:
+  allow_implicit_invocation: true
