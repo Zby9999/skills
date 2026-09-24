@@ -12,7 +12,9 @@ If the target is unclear, ask "What do you want to optimize?" and wait for the a
 
 ## 2. Define the goal and baseline
 
-Define a goal with guardrails. Evaluate the current version and save it as the baseline and current best.
+Define a goal with guardrails. Evaluate the current version and save it as the baseline and current best. Present the goal, guardrails, and baseline to the user.
+
+**Stop here. Wait for the user's explicit confirmation before proceeding to Step 3.**
 
 ## 3. Hill-climb
 
