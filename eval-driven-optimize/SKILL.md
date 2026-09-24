@@ -27,4 +27,4 @@ Repeat continuously and autonomously:
 
 ## 4. Stop and deliver
 
-Stop when substantially different approaches yield no meaningful improvement, or when a guardrail or the user requires it. Return the best verified solution, its improvement over the baseline, and the reason for stopping.
+Stop when substantially different approaches yield no meaningful improvement. Return the best verified solution, its improvement over the baseline, and the reason for stopping.
