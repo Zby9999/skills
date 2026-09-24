@@ -16,7 +16,7 @@ Define a goal with guardrails. Evaluate the current version and save it as the b
 
 ## 3. Hill-climb
 
-Repeat autonomously: explore a new angle, propose a candidate, and evaluate it against the current best using fixed criteria. Keep verified improvements within the guardrails; discard the rest. Let feedback guide the next attempt, and change approach when progress stalls.
+Repeat continuously and autonomously: explore a new angle, propose a candidate, and evaluate it against the current best using fixed criteria. Keep verified improvements within the guardrails; discard the rest. Let feedback guide the next attempt, and change approach when progress stalls.
 
 ## 4. Stop and deliver
 
