@@ -12,7 +12,11 @@ If the target is unclear, ask "What do you want to optimize?" and wait for the a
 
 ## 2. Define the goal and baseline
 
-Define a goal with guardrails. Evaluate the current version and save it as the baseline and current best. Present the goal, guardrails, and baseline to the user.
+Define a goal with guardrails.
+
+Control variation unrelated to the optimization target, and keep evaluation conditions comparable throughout baseline measurement and hill-climbing.
+
+Validate sample grades against expected outcomes and repeat baseline runs to estimate noise. Save the current version and results as the baseline and current best. Present the goal, guardrails, and baseline to the user.
 
 **Stop here. Wait for the user's explicit confirmation before proceeding to Step 3.**
 
